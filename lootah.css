@@ -467,7 +467,7 @@ video:cue {
     background: rgba(0, 0, 0, 0);
 }
 .button-link {
-    color: #8B8B8B;
+    color: #6279cd;
 }
 @media (hover: hover) and (pointer: fine) {
     .paper-icon-button-light:hover:not(:disabled) {
@@ -477,7 +477,7 @@ video:cue {
 }
 .emby-select,
 .emby-select-withcolor {
-    background-color: rgba(36, 43, 43, 0.2);
+    background-color: rgba(98,121,205, 0.2);
     border-style: hidden;
 }
 
@@ -515,33 +515,33 @@ video:cue {
     border-radius: 10px !important;
 }
 .block {
-    background-color: #383838;
+    background-color: #6279cd;
 }
 .checkboxIcon-checked {
-    background-color: #383838;
+    background-color: #6279cd;
     border-style: none;
 }
 .emby-checkbox:checked + span + .checkboxOutline {
-    background-color: #383838;
+    background-color: #6279cd;
     border-style: none;
 }
 .defaultCardBackground1 {
-    background-color: #1f1f1f;
+    background-color: #6279cd;
 }
 .defaultCardBackground2 {
-    background-color: #2f2f2f;
+    background-color: #6279cd;
 }
 .defaultCardBackground3 {
-    background-color: #3f3f3f;
+    background-color: #6279cd;
 }
 .defaultCardBackground4 {
-    background-color: #4f4f4f;
+    background-color: #6279cd;
 }
 .defaultCardBackground5 {
     background-color: #6279cd;
 }
 .navMenuOption-selected {
-    background-color: rgba(234, 234, 234, 0.2) !important;
+    background-color: rgba(98,121,205, 0.2) !important;
     border-radius: 10px !important;
 }
 :root {
@@ -711,26 +711,26 @@ div[data-role="controlgroup"] a[data-role="button"] + a[data-role="button"] {
     background-color: rgba(0, 0, 0, 0) !important;
 }
 .ratingbutton-icon-withrating {
-    color: #5D5D5D;
+    color: #6279cd;
 }
 .playerStats-stat-label,
 .sectionTitleTextButton:hover {
     color: #6279cd !important;
 }
 .selectionCommandsPanel {
-    background: #5D5D5D;
+    background: #6279cd;
 }
 .itemSelectionPanel {
-    border-top-color: #5D5D5D;
+    border-top-color: #6279cd;
     border-top-style: solid;
     border-top-width: 1px;
-    border-right-color: #5D5D5D;
+    border-right-color: #6279cd;
     border-right-style: solid;
     border-right-width: 1px;
-    border-bottom-color: #5D5D5D;
+    border-bottom-color: #6279cd;
     border-bottom-style: solid;
     border-bottom-width: 1px;
-    border-left-color: #5D5D5D;
+    border-left-color: #6279cd;
     border-left-style: solid;
     border-left-width: 1px;
     border-image-outset: 0;
@@ -755,22 +755,22 @@ div[data-role="controlgroup"] a[data-role="button"] + a[data-role="button"] {
     background: #E4E4E4;
 }
 .raised.btnRefresh.emby-button:hover {
-    color: #293b5f;
+    color: #6279cd;
     background: #E4E4E4;
 }
 .raised.emby-button:hover {
-    color: #5D5D5D;
+    color: #6279cd;
     background: #E4E4E4;
 }
 .fab.btnAddDevice.submit.sectionTitleButton.emby-button:hover,
 .fab.btnAddProvider.submit.emby-button:hover,
 .fab.btnAddUser.submit.sectionTitleButton.emby-button:hover {
-    color: #21094e;
+    color: #6279cd;
     background: #beaee2;
 }
 .sessionCardFooter.cardFooter,
 .visualCardBox-cardFooter {
-    color: #5D5D5D;
+    color: #6279cd;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
